@@ -19,10 +19,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_360p/chunks.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_360p/chunks.m3u8
 #EXTINF:-1,Atvsur
 https://live-evg25.tv360.bitel.com.pe/bitel/atvsur/chunks.m3u8
-#EXTINF:-1,La tele
+#EXTINF:-1,LaTele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
-#EXTINF:-1,Karibeña
-https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u
 #EXTINF:-1,Global
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_360p/chunks.m3u8
 #EXTINF:-1,Fhmovies
