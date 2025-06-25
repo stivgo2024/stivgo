@@ -2,7 +2,7 @@
 #EXTINF:-1,Latina
 https://live-evg25.tv360.bitel.com.pe/bitel/latinatv/bitel/latinatv_ori_source/chunks.m3u8
 #EXTINF:-1,America
-https://live-evg4.tv360.bitel.com.pe/ylKIXGxY9RFGJU0QCG2-lw/1750850685/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+https://live-evg4.tv360.bitel.com.pe/ewfvAZprW9Ng8P-XzxSpyg/1750944840/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
 #EXTINF:-1,Panamericana
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
 #EXTINF:-1,ATV
@@ -31,12 +31,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/nasca/chunks.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/dunastv/chunks.m3u8
 #EXTINF:-1,CineClub
 https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/chunks.m3u8
-#EXTINF:-1,VisionSur
-https://live-evg25.tv360.bitel.com.pe/bitel/visionsur/chunks.m3u8
 #EXTINF:-1,RTV
 https://live-evg25.tv360.bitel.com.pe/bitel/regiontv/chunks.m3u8
-#EXTINF:-1,MaluTV
-https://live-evg25.tv360.bitel.com.pe/bitel/malutv/chunks.m3u8
 #EXTINF:-1,36TVHuacho
 https://live-evg25.tv360.bitel.com.pe/bitel/36tv/chunks.m3u8
 #EXTINF:-1,TVvigil
@@ -131,14 +127,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/mediatv/chunks.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/cnh/chunks.m3u8
 #EXTINF:-1,QosqoTimes
 https://live-evg25.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8
-#EXTINF:-1,YurivisionTV
-https://live-evg25.tv360.bitel.com.pe/bitel/yuritv/chunks.m3u8
-#EXTINF:-1,RioTelevisión
-https://live-evg25.tv360.bitel.com.pe/bitel/riotv/chunks.m3u8
-#EXTINF:-1,Arpegio
-https://live-evg25.tv360.bitel.com.pe/bitel/arpegiotv/chunks.m3u8
-#EXTINF:-1,TropicalTV
-https://live-evg25.tv360.bitel.com.pe/bitel/tropical/chunks.m3u8
 #EXTINF:-1,Teleselva
 https://live-evg25.tv360.bitel.com.pe/bitel/tls/chunks.m3u8
 #EXTINF:-1,DubTV
