@@ -1,44 +1,50 @@
 #EXTM3U
 #EXTINF:-1,Latina
-https://live-evg25.tv360.bitel.com.pe/bitel/latinatv/bitel/latinatv_ori_source/chunks.m3u8
+http://45.232.176.29:8000/play/a04q
 #EXTINF:-1,América
 http://45.232.176.29:8000/play/a03d
 #EXTINF:-1,ATV
-https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_source/chunks.m3u8
+http://45.232.176.29:8000/play/a03h
 #EXTINF:-1,Panamericana
-https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
-#EXTINF:-1,NZKTV
-https://live-evg25.tv360.bitel.com.pe/bitel/nasca/chunks.m3u8
-#EXTINF:-1,USMP
-https://live-evg25.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
+http://45.232.176.29:8000/play/a052
+#EXTINF:-1,RPP
+http://45.232.176.29:8000/play/a057
+#EXTINF:-1,RT
+http://45.232.176.29:8000/play/a063
 #EXTINF:-1,Liga1 MAX
 http://45.232.176.29:8000/play/a03c
 #EXTINF:-1,Gol TV
 http://45.232.176.29:8000/play/a034
 #EXTINF:-1,GOL PERU
 http://45.232.176.29:8000/play/a04f
+#EXTINF:-1,Movistar Deportes
+http://45.232.176.29:8000/play/a03m
 #EXTINF:-1,Atv+
-https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_source/chunks.m3u8
+http://45.232.176.29:8000/play/a03i
 #EXTINF:-1,Atvsur
-https://live-evg25.tv360.bitel.com.pe/bitel/atvsur/chunks.m3u8
+http://45.232.176.29:8000/play/a03j
 #EXTINF:-1,TVPeru
-https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8
+http://45.232.176.29:8000/play/a05h
+#EXTINF:-1,CANAL EL CONGRESO
+http://45.232.176.29:8000/play/a03s
 #EXTINF:-1,Willax
-https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
+http://45.232.176.29:8000/play/a05s
 #EXTINF:-1,Existosa
-https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chunks.m3u8
+http://45.232.176.29:8000/play/a049
 #EXTINF:-1,Global
-https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
+http://45.232.176.29:8000/play/a04e
+#EXTINF:-1,TL LIMA
+http://45.232.176.29:8000/play/a05c
 #EXTINF:-1,BethelTV
-https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunks.m3u8
-#EXTINF:-1,Telelima
-https://live-evg25.tv360.bitel.com.pe/bitel/telelima/chunks.m3u8
+http://45.232.176.29:8000/play/a03n
+#EXTINF:-1,TV AGRO
+http://45.232.176.29:8000/play/a05g
 #EXTINF:-1,Televisa Novelas
 http://45.232.176.29:8000/play/a065
 #EXTINF:-1,Las Estrellas HD
 http://45.232.176.29:8000/play/a00x
-#EXTINF:-1,BonitaTV
-https://live-evg25.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8
+#EXTINF:-1,Pasiones HD
+http://45.232.176.29:8000/play/a02n
 #EXTINF:-1,Discovery Kids HD
 http://45.232.176.29:8000/play/a00c
 #EXTINF:-1,Disney Channel
@@ -51,16 +57,14 @@ http://45.232.176.29:8000/play/a00y
 http://45.232.176.29:8000/play/a007
 #EXTINF:-1,Nick HD
 http://45.232.176.29:8000/play/a019
-#EXTINF:-1,AnimeOnegai
-https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_720p/chunks.m3u8
 #EXTINF:-1,Cartoon Network HD
 http://45.232.176.29:8000/play/a01y
-#EXTINF:-1,FHMovies
-https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies_ori/chunks.m3u8
-#EXTINF:-1,FHMoviesKids
-https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids_ori/chunks.m3u8
-#EXTINF:-1,CreoKids
-https://live-evg25.tv360.bitel.com.pe/bitel/creokids/chunks.m3u8
+#EXTINF:-1,CANAL INFANTIL
+http://45.232.176.29:8000/play/a03u
+#EXTINF:-1,FMH KIDS
+http://45.232.176.29:8000/play/a04b
+#EXTINF:-1,Tooncast
+http://45.232.176.29:8000/play/a066
 #EXTINF:-1,E! Entertainment
 http://45.232.176.29:8000/play/a00i
 #EXTINF:-1,History Channel HD
@@ -89,10 +93,14 @@ http://45.232.176.29:8000/play/a01f
 http://45.232.176.29:8000/play/a01b
 #EXTINF:-1,Sony HD
 http://45.232.176.29:8000/play/a01a
+#EXTINF:-1,Sony Movies
+http://45.232.176.29:8000/play/a054
 #EXTINF:-1,FX HD
 http://45.232.176.29:8000/play/a00u
 #EXTINF:-1,Golden HD
 http://45.232.176.29:8000/play/a02b
+#EXTINF:-1,Golden Edge HD
+http://45.232.176.29:8000/play/a02c
 #EXTINF:-1,Cinecanal HD
 http://45.232.176.29:8000/play/a009
 #EXTINF:-1,Cinemax HD
@@ -103,6 +111,14 @@ http://45.232.176.29:8000/play/a01o
 http://45.232.176.29:8000/play/a01p
 #EXTINF:-1,Paramount HD
 http://45.232.176.29:8000/play/a02m
+#EXTINF:-1,AMC HD
+http://45.232.176.29:8000/play/a004
+#EXTINF:-1,AXN HD
+http://45.232.176.29:8000/play/a005
+#EXTINF:-1,CLASIC
+http://45.232.176.29:8000/play/a041
+#EXTINF:-1,FMH MOVIES
+http://45.232.176.29:8000/play/a04c
 #EXTINF:-1,HBO 2
 http://45.232.176.29:8000/play/a04h
 #EXTINF:-1,HBO Family
@@ -113,8 +129,6 @@ http://45.232.176.29:8000/play/a02d
 http://45.232.176.29:8000/play/a04j
 #EXTINF:-1,HBO POP
 http://45.232.176.29:8000/play/a04k
-#EXTINF:-1,HBO POP HD
-http://45.232.176.29:8000/play/a02e
 #EXTINF:-1,HBO Plus
 http://45.232.176.29:8000/play/a035
 #EXTINF:-1,HBO SIGNATURE
@@ -153,130 +167,6 @@ http://45.232.176.29:8000/play/a029
 http://45.232.176.29:8000/play/a01i
 #EXTINF:-1,TNT Sports Premiun HD
 http://45.232.176.29:8000/play/a01d
-#EXTINF:-1,CineClub
-https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/chunks.m3u8
-#EXTINF:-1,RTV
-https://live-evg25.tv360.bitel.com.pe/bitel/regiontv/chunks.m3u8
-#EXTINF:-1,36TVHuacho
-https://live-evg25.tv360.bitel.com.pe/bitel/36tv/chunks.m3u8
-#EXTINF:-1,TVvigil
-https://live-evg25.tv360.bitel.com.pe/bitel/vigiltv/chunks.m3u8
-#EXTINF:-1,AstrosTV
-https://live-evg25.tv360.bitel.com.pe/bitel/astrostv/chunks.m3u8
-#EXTINF:-1,Canal49Lambayeque
-https://live-evg25.tv360.bitel.com.pe/bitel/lambayeque/chunks.m3u8
-#EXTINF:-1,TVCosmos
-https://live-evg25.tv360.bitel.com.pe/bitel/cosmos/chunks.m3u8
-#EXTINF:-1,BonitaTV
-https://live-evg25.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8
-#EXTINF:-1,CositelICA
-https://live-evg25.tv360.bitel.com.pe/bitel/cositel/chunks.m3u8
-#EXTINF:-1,PBO
-https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_source/chunks.m3u8
-#EXTINF:-1,LaTele
-https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
-#EXTINF:-1,CreoLatino
-https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/chunks.m3u8
-#EXTINF:-1,CreoFe
-https://live-evg25.tv360.bitel.com.pe/bitel/creofe/chunks.m3u8
-#EXTINF:-1,NovaTV
-https://live-evg25.tv360.bitel.com.pe/bitel/novatv/chunks.m3u8
-#EXTINF:-1,Nativa
-https://live-evg25.tv360.bitel.com.pe/bitel/nativa/bitel/nativa_ori_source/chunks.m3u8
-#EXTINF:-1,CreoTV
-https://live-evg25.tv360.bitel.com.pe/bitel/creo/chunks.m3u8
-#EXTINF:-1,SolTV
-https://live-evg25.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
-#EXTINF:-1,Bitt
-https://live-evg25.tv360.bitel.com.pe/bitel/bitt/chunks.m3u8
-#EXTINF:-1,BHTV
-https://live-evg25.tv360.bitel.com.pe/bitel/bhtv/chunks.m3u8
-#EXTINF:-1,Telelima
-https://live-evg25.tv360.bitel.com.pe/bitel/telelima/chunks.m3u8
-#EXTINF:-1,CTVTV
-https://live-evg25.tv360.bitel.com.pe/bitel/ctv/bitel/ctv_ori_source/chunks.m3u8
-#EXTINF:-1,SantaRosa
-https://live-evg25.tv360.bitel.com.pe/bitel/santarosa/chunks.m3u8
-#EXTINF:-1,LikeTV
-https://live-evg25.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
-#EXTINF:-1,TVNorte
-https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/chunks.m3u8
-#EXTINF:-1,MilenialTV
-https://live-evg25.tv360.bitel.com.pe/bitel/milenial/chunks.m3u8
-#EXTINF:-1,Canal25
-https://live-evg25.tv360.bitel.com.pe/bitel/canal25ayacucho/chunks.m3u8
-#EXTINF:-1,CTCTV
-https://live-evg25.tv360.bitel.com.pe/bitel/ctc/bitel/ctc_ori_360p/chunks.m3u8
-#EXTINF:-1,Telesur
-https://live-evg25.tv360.bitel.com.pe/bitel/tevesur/chunks.m3u8
-#EXTINF:-1,InkaVision
-https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/bitel/inkavision_ori_360p/chunks.m3u8
-#EXTINF:-1,RTP
-https://live-evg25.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
-#EXTINF:-1,AtlantisTV
-https://live-evg25.tv360.bitel.com.pe/bitel/atlantistv/bitel/atlantistv_source/chunks.m3u8
-#EXTINF:-1,RumbaTV
-https://live-evg25.tv360.bitel.com.pe/bitel/rumba/chunks.m3u8
-#EXTINF:-1,AntenaSur
-https://live-evg25.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8
-#EXTINF:-1,CadenaTV
-https://live-evg25.tv360.bitel.com.pe/bitel/cadenatv/chunks.m3u8
-#EXTINF:-1,TVWanka
-https://live-evg25.tv360.bitel.com.pe/bitel/tvwanka/chunks.m3u8
-#EXTINF:-1,HuantaTV
-https://live-evg25.tv360.bitel.com.pe/bitel/huantatv/chunks.m3u8
-#EXTINF:-1,KBOTelevisión
-https://live-evg25.tv360.bitel.com.pe/bitel/kbo/chunks.m3u8
-#EXTINF:-1,QollasuyoTV
-https://live-evg25.tv360.bitel.com.pe/bitel/qollasuyotv/chunks.m3u8
-#EXTINF:-1,XTV
-https://live-evg25.tv360.bitel.com.pe/bitel/xtv/bitel/xtv_ori_source/chunks.m3u8
-#EXTINF:-1,CNC
-https://live-evg25.tv360.bitel.com.pe/bitel/cnccajamarca/chunks.m3u8
-#EXTINF:-1,XtremoTV
-https://live-evg25.tv360.bitel.com.pe/bitel/extremotv/chunks.m3u8
-#EXTINF:-1,XTVPlus
-https://live-evg25.tv360.bitel.com.pe/bitel/xtvplus/chunks.m3u8
-#EXTINF:-1,MediaTV
-https://live-evg25.tv360.bitel.com.pe/bitel/mediatv/chunks.m3u8
-#EXTINF:-1,CNHTV
-https://live-evg25.tv360.bitel.com.pe/bitel/cnh/chunks.m3u8
-#EXTINF:-1,QosqoTimes
-https://live-evg25.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8
-#EXTINF:-1,Teleselva
-https://live-evg25.tv360.bitel.com.pe/bitel/tls/chunks.m3u8
-#EXTINF:-1,DubTV
-https://live-evg25.tv360.bitel.com.pe/bitel/dubtv/chunks.m3u8
-#EXTINF:-1,MielTV
-https://live-evg25.tv360.bitel.com.pe/bitel/mieltv/chunks.m3u8
-#EXTINF:-1,NativaTVChanchamayo
-https://live-evg25.tv360.bitel.com.pe/bitel/nativachanchamayo/chunks.m3u8
-#EXTINF:-1,AmazónicaTV
-https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/chunks.m3u8
-#EXTINF:-1,SelvaTV
-https://live-evg25.tv360.bitel.com.pe/bitel/selvatv/bitel/selvatv_ori_source/chunks.m3u8
-#EXTINF:-1,BNBTVPucallpa
-https://live-evg25.tv360.bitel.com.pe/bitel/bnb/chunks.m3u8
-#EXTINF:-1,TarapotoTelevisión
-https://live-evg25.tv360.bitel.com.pe/bitel/tarapototv/chunks.m3u8
-#EXTINF:-1,MasterTV
-https://live-evg25.tv360.bitel.com.pe/bitel/mastertv/chunks.m3u8
-#EXTINF:-1,CNCTV
-https://live-evg25.tv360.bitel.com.pe/bitel/cnctv/chunks.m3u8
-#EXTINF:-1,RibereñaPucallpa
-https://live-evg25.tv360.bitel.com.pe/bitel/ribere%C3%B1a/chunks.m3u8
-#EXTINF:-1,UcayaliTV
-https://live-evg25.tv360.bitel.com.pe/bitel/ucayalitv/chunks.m3u8
-#EXTINF:-1,ViaTV
-https://live-evg25.tv360.bitel.com.pe/bitel/viatv/chunks.m3u8
-#EXTINF:-1,PiuraTV
-https://live-evg25.tv360.bitel.com.pe/bitel/piuratv/chunks.m3u8
-#EXTINF:-1,RadioUnoTV
-https://live-evg25.tv360.bitel.com.pe/bitel/radiounotv/chunks.m3u8
-#EXTINF:-1,NorteTV
-https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/chunks.m3u8
-#EXTINF:-1,NovaTV
-https://live-evg25.tv360.bitel.com.pe/bitel/novatv/chunks.m3u8
 
 
 
