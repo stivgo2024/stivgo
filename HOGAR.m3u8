@@ -5,25 +5,31 @@ http://192.168.140.2:8000/play/a005/index.m3u8?hls
 http://192.168.140.2:8000/play/a003/index.m3u8?hls
 #EXTINF:-1 group-title="-",Bethel TV
 http://192.168.140.2:8000/play/a007/index.m3u8?hls
-#EXTINF:-1 group-title="-",Exitosa TV
-http://192.168.140.2:8000/play/a008/index.m3u8?hls
+#EXTINF:-1 group-title="-",Cartoon Network
+http://192.168.140.2:8000/play/a00o/index.m3u8?hls
+#EXTINF:-1 group-title="-",Discovery Channel
+http://192.168.140.2:8000/play/a00n/index.m3u8?hls
+#EXTINF:-1 group-title="-",Discovery H&H
+http://192.168.140.2:8000/play/a00p/index.m3u8?hls
+#EXTINF:-1 group-title="-",Disney Channel
+http://192.168.140.2:8000/play/a00q/index.m3u8?hls
+#EXTINF:-1 group-title="-",Disney Junior
+http://192.168.140.2:8000/play/a00k/index.m3u8?hls
 #EXTINF:-1 group-title="-",FMH Kids
 http://192.168.140.2:8000/play/a009/index.m3u8?hls
 #EXTINF:-1 group-title="-",Global
 http://192.168.140.2:8000/play/a00b/index.m3u8?hls
+#EXTINF:-1 group-title="-",History Channel
+http://192.168.140.2:8000/play/a00l/index.m3u8?hls
 #EXTINF:-1 group-title="-",Latina
 http://192.168.140.2:8000/play/a00c/index.m3u8?hls
 #EXTINF:-1 group-title="-",Liga1 MAX
 http://192.168.140.2:8000/play/a00d/index.m3u8?hls
-#EXTINF:-1 group-title="-",Nativa TV
-http://192.168.140.2:8000/play/a00e/index.m3u8?hls
-#EXTINF:-1 group-title="-",Nazca TV
-http://192.168.140.2:8000/play/a00f/index.m3u8?hls
 #EXTINF:-1 group-title="-",Panamericana
 http://192.168.140.2:8000/play/a00g/index.m3u8?hls
-#EXTINF:-1 group-title="-",Peques TV
-http://192.168.140.2:8000/play/a00h/index.m3u8?hls
+#EXTINF:-1 group-title="-",Space
+http://192.168.140.2:8000/play/a00r/index.m3u8?hls
+#EXTINF:-1 group-title="-",TNT
+http://192.168.140.2:8000/play/a00m/index.m3u8?hls
 #EXTINF:-1 group-title="-",TV Peru
 http://192.168.140.2:8000/play/a00i/index.m3u8?hls
-#EXTINF:-1 group-title="-",Willax
-http://192.168.140.2:8000/play/a00j/index.m3u8?hls
