@@ -25,8 +25,6 @@ http://192.168.140.2:8000/play/a02k/index.m3u8
 http://192.168.140.2:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 2 HD
 http://192.168.140.2:8000/play/a03o/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2 HD
-http://192.168.140.2:8000/play/a031/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 3 HD
 http://192.168.140.2:8000/play/a03m/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 4HD
@@ -37,8 +35,6 @@ http://192.168.140.2:8000/play/a02y/index.m3u8
 http://192.168.140.2:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="-",ESPN HD
 http://192.168.140.2:8000/play/a03r/index.m3u8
-#EXTINF:-1 group-title="-",ESPN HD
-http://192.168.140.2:8000/play/a036/index.m3u8
 #EXTINF:-1 group-title="-",ESPN Premium HD
 http://192.168.140.2:8000/play/a03v/index.m3u8
 #EXTINF:-1 group-title="-",FX HD
