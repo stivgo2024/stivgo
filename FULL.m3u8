@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="-",ATV
+http://192.168.140.2:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="-",AXN
+http://192.168.140.2:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="-",America TV HD
+http://192.168.140.2:8000/play/a074/index.m3u8
+#EXTINF:-1 group-title="-",Animal Planet
+http://192.168.140.2:8000/play/a079/index.m3u8
 #EXTINF:-1 group-title="-",Canal de las Estrellas
 http://192.168.140.2:8000/play/a05k/index.m3u8
 #EXTINF:-1 group-title="-",Cartoon Network
@@ -7,6 +15,8 @@ http://192.168.140.2:8000/play/a058/index.m3u8
 http://192.168.140.2:8000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="-",Cinemax
 http://192.168.140.2:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="-",Comedy Central
+http://192.168.140.2:8000/play/a07a/index.m3u8
 #EXTINF:-1 group-title="-",Discovery Channel
 http://192.168.140.2:8000/play/a059/index.m3u8
 #EXTINF:-1 group-title="-",Discovery H&H
@@ -33,6 +43,8 @@ http://192.168.140.2:8000/play/a05t/index.m3u8
 http://192.168.140.2:8000/play/a05w/index.m3u8
 #EXTINF:-1 group-title="-",FX
 http://192.168.140.2:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="-",GLOBAL
+http://192.168.140.2:8000/play/a06r/index.m3u8
 #EXTINF:-1 group-title="-",Gol TV
 http://192.168.140.2:8000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="-",Golden
@@ -55,6 +67,8 @@ http://192.168.140.2:8000/play/a065/index.m3u8
 http://192.168.140.2:8000/play/a05d/index.m3u8
 #EXTINF:-1 group-title="-",Kanal D Drama
 http://192.168.140.2:8000/play/a067/index.m3u8
+#EXTINF:-1 group-title="-",Latina HD
+http://192.168.140.2:8000/play/a076/index.m3u8
 #EXTINF:-1 group-title="-",Liga1 MAX
 http://192.168.140.2:8000/play/a05e/index.m3u8
 #EXTINF:-1 group-title="-",MTV
@@ -67,6 +81,8 @@ http://192.168.140.2:8000/play/a06a/index.m3u8
 http://192.168.140.2:8000/play/a06b/index.m3u8
 #EXTINF:-1 group-title="-",PLAYBOY
 http://192.168.140.2:8000/play/a06l/index.m3u8
+#EXTINF:-1 group-title="-",Panamericana
+http://192.168.140.2:8000/play/a06s/index.m3u8
 #EXTINF:-1 group-title="-",Paramount
 http://192.168.140.2:8000/play/a06c/index.m3u8
 #EXTINF:-1 group-title="-",Pasiones
@@ -85,6 +101,8 @@ http://192.168.140.2:8000/play/a06e/index.m3u8
 http://192.168.140.2:8000/play/a05g/index.m3u8
 #EXTINF:-1 group-title="-",TNT Series
 http://192.168.140.2:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="-",TV PERU
+http://192.168.140.2:8000/play/a06p/index.m3u8
 #EXTINF:-1 group-title="-",Universal Channel
 http://192.168.140.2:8000/play/a06i/index.m3u8
 #EXTINF:-1 group-title="-",VENUS
