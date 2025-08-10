@@ -9,6 +9,8 @@ http://192.168.140.2:8000/play/a07s/index.m3u8
 http://192.168.140.2:8000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="-",AXN
 http://192.168.140.2:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="-",America TV
+http://192.168.140.2:8000/play/a08q/index.m3u8
 #EXTINF:-1 group-title="-",America TV HD
 http://192.168.140.2:8000/play/a074/index.m3u8
 #EXTINF:-1 group-title="-",Animal Planet
@@ -87,6 +89,8 @@ http://192.168.140.2:8000/play/a05v/index.m3u8
 http://192.168.140.2:8000/play/a07w/index.m3u8
 #EXTINF:-1 group-title="-",GLOBAL
 http://192.168.140.2:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="-",Global
+http://192.168.140.2:8000/play/a08n/index.m3u8
 #EXTINF:-1 group-title="-",Gol TV
 http://192.168.140.2:8000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="-",Golden
@@ -111,6 +115,8 @@ http://192.168.140.2:8000/play/a05d/index.m3u8
 http://192.168.140.2:8000/play/a067/index.m3u8
 #EXTINF:-1 group-title="-",Karibeña
 http://192.168.140.2:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="-",Latina
+http://192.168.140.2:8000/play/a08m/index.m3u8
 #EXTINF:-1 group-title="-",Latina HD
 http://192.168.140.2:8000/play/a076/index.m3u8
 #EXTINF:-1 group-title="-",Lifetime
@@ -134,6 +140,8 @@ http://192.168.140.2:8000/play/a084/index.m3u8
 #EXTINF:-1 group-title="-",PBO
 http://192.168.140.2:8000/play/a07o/index.m3u8
 #EXTINF:-1 group-title="-",Panamericana
+http://192.168.140.2:8000/play/a08o/index.m3u8
+#EXTINF:-1 group-title="-",Panamericana
 http://192.168.140.2:8000/play/a06s/index.m3u8
 #EXTINF:-1 group-title="-",Paramount HD
 http://192.168.140.2:8000/play/a07f/index.m3u8
@@ -155,6 +163,8 @@ http://192.168.140.2:8000/play/a07c/index.m3u8
 http://192.168.140.2:8000/play/a07d/index.m3u8
 #EXTINF:-1 group-title="-",TV PERU
 http://192.168.140.2:8000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="-",TV Perú
+http://192.168.140.2:8000/play/a08p/index.m3u8
 #EXTINF:-1 group-title="-",TVN
 http://192.168.140.2:8000/play/a08h/index.m3u8
 #EXTINF:-1 group-title="-",Top Latino
