@@ -17,20 +17,14 @@ http://192.168.140.2:100/100.m3u8
 http://192.168.140.2:400/400.m3u8
 #EXTINF:-1,Animal Planet HD
 http://192.168.140.2:900/900.m3u8
-#EXTINF:-1,BETHEL TV
+#EXTINF:-1,Bethel TV
 http://192.168.140.2:902/902.m3u8
 #EXTINF:-1,Baby TV
 http://192.168.140.2:601/601.m3u8
-#EXTINF:-1,CHV HD
-http://192.168.140.2:801/801.m3u8
+#EXTINF:-1,Canal N
+http://192.168.140.2:205/205.m3u8
 #EXTINF:-1,CNN Español
 http://192.168.140.2:605/605.m3u8
-#EXTINF:-1,CNN International
-http://192.168.140.2:606/606.m3u8
-#EXTINF:-1 ,Canal 13 HD
-http://192.168.140.2:702/702.m3u8
-#EXTINF:-1,Canal 24 Horas
-http://192.168.140.2:800/800.m3u8
 #EXTINF:-1,Cartoon Network
 http://192.168.140.2:602/602.m3u8
 #EXTINF:-1,Cartoonito
@@ -49,6 +43,8 @@ http://192.168.140.2:401/401.m3u8
 http://192.168.140.2:301/301.m3u8
 #EXTINF:-1,Discovery Kids HD
 http://192.168.140.2:302/302.m3u8
+#EXTINF:-1,Discovery World HD
+http://192.168.140.2:702/702.m3u8
 #EXTINF:-1,Discovery Science
 http://192.168.140.2:607/607.m3u8
 #EXTINF:-1,Discovery Theater HD
@@ -59,8 +55,10 @@ http://192.168.140.2:608/608.m3u8
 http://192.168.140.2:903/903.m3u8
 #EXTINF:-1,Disney Junior
 http://192.168.140.2:609/609.m3u8
-#EXTINF:-1,E! Entertainment TV
+#EXTINF:-1,E! Entertainment
 http://192.168.140.2:610/610.m3u8
+#EXTINF:-1,EWTN
+http://192.168.140.2:611/611.m3u8
 #EXTINF:-1,ESPN 2 HD
 http://192.168.140.2:402/402.m3u8
 #EXTINF:-1,ESPN 3 HD
@@ -79,12 +77,12 @@ http://192.168.140.2:406/406.m3u8
 http://192.168.140.2:407/407.m3u8
 #EXTINF:-1,El Gourmet HD
 http://192.168.140.2:703/703.m3u8
-#EXTINF:-1,Enlace
-http://192.168.140.2:611/611.m3u8
+#EXTINF:-1,Europa Europa
+http://192.168.140.2:507/507.m3u8
 #EXTINF:-1,FX HD
 http://192.168.140.2:304/304.m3u8
-#EXTINF:-1,Food Network
-http://192.168.140.2:805/805.m3u8
+#EXTINF:-1,France 24
+http://192.168.140.2:508/508.m3u8
 #EXTINF:-1,Global
 http://192.168.140.2:102/102.m3u8
 #EXTINF:-1,Global HD
@@ -105,20 +103,18 @@ http://192.168.140.2:704/704.m3u8
 http://192.168.140.2:705/705.m3u8
 #EXTINF:-1,HBO Xtreme HD
 http://192.168.140.2:807/807.m3u8
-#EXTINF:-1,HGTV
-http://192.168.140.2:612/612.m3u8
+#EXTINF:-1,HTV
+http://192.168.140.2:207/207.m3u8
 #EXTINF:-1,History 2
 http://192.168.140.2:503/503.m3u8
 #EXTINF:-1,History Channel HD
 http://192.168.140.2:905/905.m3u8
-#EXTINF:-1,ID - Investigation Discovery
-http://192.168.140.2:906/906.m3u8
 #EXTINF:-1,ID HD
 http://192.168.140.2:907/907.m3u8
 #EXTINF:-1,Kanal D Drama
 http://192.168.140.2:504/504.m3u8
-#EXTINF:-1,La Red
-http://192.168.140.2:504/504.m3u8
+#EXTINF:-1,Love Nature
+http://192.168.140.2:208/208.m3u8
 #EXTINF:-1,Las Estrellas HD
 http://192.168.140.2:809/809.m3u8
 #EXTINF:-1,Latina
@@ -129,16 +125,12 @@ http://192.168.140.2:408/408.m3u8
 http://192.168.140.2:613/613.m3u8
 #EXTINF:-1,Liga1 MAX HD
 http://192.168.140.2:104/104.m3u8
-#EXTINF:-1,MEGA HD
-http://192.168.140.2:810/810.m3u8
 #EXTINF:-1,MTV 
 http://192.168.140.2:706/706.m3u8
 #EXTINF:-1,MTV Live
 http://192.168.140.2:707/707.m3u8
 #EXTINF:-1,Movistar Deportes
 http://192.168.140.2:202/202.m3u8
-#EXTINF:-1,NTV
-http://192.168.140.2:812/812.m3u8
 #EXTINF:-1,Nat Geo
 http://192.168.140.2:908/908.m3u8
 #EXTINF:-1,Nick Junior
@@ -155,9 +147,9 @@ http://192.168.140.2:409/409.m3u8
 http://192.168.140.2:813/813.m3u8
 #EXTINF:-1,Playboy HD
 http://192.168.140.2:708/708.m3u8
-#EXTINF:-1,REC TV
-http://192.168.140.2:814/814.m3u8
-#EXTINF:-1,STAR CHANNEL HD
+#EXTINF:-1,RPP
+http://192.168.140.2:206/206.m3u8
+#EXTINF:-1,Star Channel HD
 http://192.168.140.2:309/309.m3u8
 #EXTINF:-1,Sextreme
 http://192.168.140.2:505/505.m3u8
@@ -167,8 +159,6 @@ http://192.168.140.2:909/909.m3u8
 http://192.168.140.2:615/615.m3u8
 #EXTINF:-1,Space HD
 http://192.168.140.2:308/308.m3u8
-#EXTINF:-1,Sun Channel HD
-http://192.168.140.2:815/815.m3u8
 #EXTINF:-1,TLC
 http://192.168.140.2:617/617.m3u8
 #EXTINF:-1,TNT HD
@@ -189,7 +179,7 @@ http://192.168.140.2:616/616.m3u8
 http://192.168.140.2:618/618.m3u8
 #EXTINF:-1,Venus
 http://192.168.140.2:506/506.m3u8
+#EXTINF:-1,Wobi
+http://192.168.140.2:509/509.m3u8
 #EXTINF:-1,Warner Channel HD
 http://192.168.140.2:910/910.m3u8
-#EXTINF:-1,Warner TV HD
-http://192.168.140.2:911/911.m3u8
