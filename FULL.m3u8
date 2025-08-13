@@ -61,8 +61,6 @@ http://192.168.140.2:8000/play/a0c3/index.m3u8
 http://192.168.140.2:8000/play/a09j/index.m3u8
 #EXTINF:-1 group-title="-",Disney Channel HD
 http://192.168.140.2:8000/play/a0az/index.m3u8
-#EXTINF:-1 group-title="-",Disney HD
-http://192.168.140.2:8000/play/a0b7/index.m3u8
 #EXTINF:-1 group-title="-",Disney Jr.
 http://192.168.140.2:8000/play/a09i/index.m3u8
 #EXTINF:-1 group-title="-",E! Entertainment TV
