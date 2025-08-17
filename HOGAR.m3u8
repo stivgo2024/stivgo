@@ -1,12 +1,89 @@
 #EXTM3U
+#EXTINF:-1 group-title="-",A&E
+http://192.168.220.254:8000/play/a00x/index.m3u8?hls
+#EXTINF:-1 group-title="-",AMC
+http://192.168.220.254:8000/play/a00y/index.m3u8?hls
 #EXTINF:-1 group-title="-",ATV
-http://192.168.220.254:7000/100.m3u8
+http://192.168.220.254:8000/play/a006/index.m3u8?hls
+#EXTINF:-1 group-title="-",America TV HD
+http://192.168.220.254:8000/play/a00q/index.m3u8?hls
+#EXTINF:-1 group-title="-",Animal Planet
+http://192.168.220.254:8000/play/a01c/index.m3u8?hls
+#EXTINF:-1 group-title="-",Cartoon Network
+http://192.168.220.254:8000/play/a00u/index.m3u8?hls
+#EXTINF:-1 group-title="-",Cinecanal HD
+http://192.168.220.254:8000/play/a00d/index.m3u8?hls
+#EXTINF:-1 group-title="-",Discovery H&H HD
+http://192.168.220.254:8000/play/a00i/index.m3u8?hls
+#EXTINF:-1 group-title="-",Discovery Kids HD
+http://192.168.220.254:8000/play/a00a/index.m3u8?hls
+#EXTINF:-1 group-title="-",Disney HD
+http://192.168.220.254:8000/play/a009/index.m3u8?hls
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://192.168.220.254:8000/play/a00n/index.m3u8?hls
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://192.168.220.254:8000/play/a00l/index.m3u8?hls
+#EXTINF:-1 group-title="-",ESPN 4 HD
+http://192.168.220.254:8000/play/a00k/index.m3u8?hls
+#EXTINF:-1 group-title="-",ESPN 5HD
+http://192.168.220.254:8000/play/a00e/index.m3u8?hls
+#EXTINF:-1 group-title="-",ESPN 6 HD
+http://192.168.220.254:8000/play/a00m/index.m3u8?hls
+#EXTINF:-1 group-title="-",ESPN 7 HD
+http://192.168.220.254:8000/play/a01f/index.m3u8?hls
+#EXTINF:-1 group-title="-",ESPN HD
+http://192.168.220.254:8000/play/a00p/index.m3u8?hls
+#EXTINF:-1 group-title="-",El Gourmet
+http://192.168.220.254:8000/play/a00v/index.m3u8?hls
+#EXTINF:-1 group-title="-",FX HD
+http://192.168.220.254:8000/play/a00g/index.m3u8?hls
 #EXTINF:-1 group-title="-",Global
-http://192.168.220.254:7000/101.m3u8
+http://192.168.220.254:8000/play/a007/index.m3u8?hls
+#EXTINF:-1 group-title="-",Golden HD
+http://192.168.220.254:8000/play/a014/index.m3u8?hls
+#EXTINF:-1 group-title="-",HBO Family HD
+http://192.168.220.254:8000/play/a019/index.m3u8?hls
+#EXTINF:-1 group-title="-",HBO HD
+http://192.168.220.254:8000/play/a00f/index.m3u8?hls
+#EXTINF:-1 group-title="-",HBO Plus
+http://192.168.220.254:8000/play/a00z/index.m3u8?hls
+#EXTINF:-1 group-title="-",HBO Signature
+http://192.168.220.254:8000/play/a010/index.m3u8?hls
+#EXTINF:-1 group-title="-",HBO Xtreme HD
+http://192.168.220.254:8000/play/a01a/index.m3u8?hls
+#EXTINF:-1 group-title="-",History Channel HD
+http://192.168.220.254:8000/play/a01d/index.m3u8?hls
+#EXTINF:-1 group-title="-",Las Estrellas HD
+http://192.168.220.254:8000/play/a018/index.m3u8?hls
+#EXTINF:-1 group-title="-",Latina HD
+http://192.168.220.254:8000/play/a00r/index.m3u8?hls
+#EXTINF:-1 group-title="-",MTV
+http://192.168.220.254:8000/play/a00w/index.m3u8?hls
 #EXTINF:-1 group-title="-",Movistar Deportes
-http://192.168.220.254:7000/102.m3u8
+http://192.168.220.254:8000/play/a003/index.m3u8?hls
+#EXTINF:-1 group-title="-",Nat Geo
+http://192.168.220.254:8000/play/a01e/index.m3u8?hls
+#EXTINF:-1 group-title="-",Nickelodeon HD
+http://192.168.220.254:8000/play/a017/index.m3u8?hls
 #EXTINF:-1 group-title="-",Panamericana
-http://192.168.220.254:7000/103.m3u8
+http://192.168.220.254:8000/play/a004/index.m3u8?hls
+#EXTINF:-1 group-title="-",Paramount HD
+http://192.168.220.254:8000/play/a00o/index.m3u8?hls
+#EXTINF:-1 group-title="-",Pasiones HD
+http://192.168.220.254:8000/play/a016/index.m3u8?hls
+#EXTINF:-1 group-title="-",Playboy
+http://192.168.220.254:8000/play/a00t/index.m3u8?hls
+#EXTINF:-1 group-title="-",Sony HD
+http://192.168.220.254:8000/play/a01g/index.m3u8?hls
+#EXTINF:-1 group-title="-",Space HD
+http://192.168.220.254:8000/play/a00c/index.m3u8?hls
+#EXTINF:-1 group-title="-",Star Channel HD
+http://192.168.220.254:8000/play/a00b/index.m3u8?hls
+#EXTINF:-1 group-title="-",Studio Universal HD
+http://192.168.220.254:8000/play/a012/index.m3u8?hls
+#EXTINF:-1 group-title="-",TNT HD
+http://192.168.220.254:8000/play/a00j/index.m3u8?hls
 #EXTINF:-1 group-title="-",TV Peru
-http://192.168.220.254:7000/104.m3u8
-
+http://192.168.220.254:8000/play/a005/index.m3u8?hls
+#EXTINF:-1 group-title="-",Warner TV HD
+http://192.168.220.254:8000/play/a01p/index.m3u8?hls
