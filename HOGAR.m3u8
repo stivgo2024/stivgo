@@ -1,89 +1,89 @@
 #EXTM3U
 #EXTINF:-1 group-title="-",A&E
-http://192.168.220.254:8000/play/a00x
+http://192.168.220.254:8000/play/a00x?ts
 #EXTINF:-1 group-title="-",AMC
-http://192.168.220.254:8000/play/a00y
+http://192.168.220.254:8000/play/a00y?ts
 #EXTINF:-1 group-title="-",ATV
-http://192.168.220.254:8000/play/a006
+http://192.168.220.254:8000/play/a006?ts
 #EXTINF:-1 group-title="-",America TV HD
-http://192.168.220.254:8000/play/a00q
+http://192.168.220.254:8000/play/a00q?ts
 #EXTINF:-1 group-title="-",Animal Planet
-http://192.168.220.254:8000/play/a01c
+http://192.168.220.254:8000/play/a01c?ts
 #EXTINF:-1 group-title="-",Cartoon Network
-http://192.168.220.254:8000/play/a00u
+http://192.168.220.254:8000/play/a00u?ts
 #EXTINF:-1 group-title="-",Cinecanal HD
-http://192.168.220.254:8000/play/a00d
+http://192.168.220.254:8000/play/a00d?ts
 #EXTINF:-1 group-title="-",Discovery H&H HD
-http://192.168.220.254:8000/play/a00i
+http://192.168.220.254:8000/play/a00i?ts
 #EXTINF:-1 group-title="-",Discovery Kids HD
-http://192.168.220.254:8000/play/a00a
+http://192.168.220.254:8000/play/a00a?ts
 #EXTINF:-1 group-title="-",Disney HD
-http://192.168.220.254:8000/play/a009
+http://192.168.220.254:8000/play/a009?ts
 #EXTINF:-1 group-title="-",ESPN 2 HD
-http://192.168.220.254:8000/play/a00n
+http://192.168.220.254:8000/play/a00n?ts
 #EXTINF:-1 group-title="-",ESPN 3 HD
-http://192.168.220.254:8000/play/a00l
+http://192.168.220.254:8000/play/a00l?ts
 #EXTINF:-1 group-title="-",ESPN 4 HD
-http://192.168.220.254:8000/play/a00k
+http://192.168.220.254:8000/play/a00k?ts
 #EXTINF:-1 group-title="-",ESPN 5HD
-http://192.168.220.254:8000/play/a00e
+http://192.168.220.254:8000/play/a00e?ts
 #EXTINF:-1 group-title="-",ESPN 6 HD
-http://192.168.220.254:8000/play/a00m
+http://192.168.220.254:8000/play/a00m?ts
 #EXTINF:-1 group-title="-",ESPN 7 HD
-http://192.168.220.254:8000/play/a01f
+http://192.168.220.254:8000/play/a01f?ts
 #EXTINF:-1 group-title="-",ESPN HD
-http://192.168.220.254:8000/play/a00p
+http://192.168.220.254:8000/play/a00p?ts
 #EXTINF:-1 group-title="-",El Gourmet
-http://192.168.220.254:8000/play/a00v
+http://192.168.220.254:8000/play/a00v?ts
 #EXTINF:-1 group-title="-",FX HD
-http://192.168.220.254:8000/play/a00g
+http://192.168.220.254:8000/play/a00g?ts
 #EXTINF:-1 group-title="-",Global
-http://192.168.220.254:8000/play/a007
+http://192.168.220.254:8000/play/a007?ts
 #EXTINF:-1 group-title="-",Golden HD
-http://192.168.220.254:8000/play/a014
+http://192.168.220.254:8000/play/a014?ts
 #EXTINF:-1 group-title="-",HBO Family HD
-http://192.168.220.254:8000/play/a019
+http://192.168.220.254:8000/play/a019?ts
 #EXTINF:-1 group-title="-",HBO HD
-http://192.168.220.254:8000/play/a00f
+http://192.168.220.254:8000/play/a00f?ts
 #EXTINF:-1 group-title="-",HBO Plus
-http://192.168.220.254:8000/play/a00z
+http://192.168.220.254:8000/play/a00z?ts
 #EXTINF:-1 group-title="-",HBO Signature
-http://192.168.220.254:8000/play/a010
+http://192.168.220.254:8000/play/a010?ts
 #EXTINF:-1 group-title="-",HBO Xtreme HD
-http://192.168.220.254:8000/play/a01a
+http://192.168.220.254:8000/play/a01a?ts
 #EXTINF:-1 group-title="-",History Channel HD
-http://192.168.220.254:8000/play/a01d
+http://192.168.220.254:8000/play/a01d?ts
 #EXTINF:-1 group-title="-",Las Estrellas HD
-http://192.168.220.254:8000/play/a018
+http://192.168.220.254:8000/play/a018?ts
 #EXTINF:-1 group-title="-",Latina HD
-http://192.168.220.254:8000/play/a00r
+http://192.168.220.254:8000/play/a00r?ts
 #EXTINF:-1 group-title="-",MTV
-http://192.168.220.254:8000/play/a00w
+http://192.168.220.254:8000/play/a00w?ts
 #EXTINF:-1 group-title="-",Movistar Deportes
-http://192.168.220.254:8000/play/a003
+http://192.168.220.254:8000/play/a003?ts
 #EXTINF:-1 group-title="-",Nat Geo
-http://192.168.220.254:8000/play/a01e
+http://192.168.220.254:8000/play/a01e?ts
 #EXTINF:-1 group-title="-",Nickelodeon HD
-http://192.168.220.254:8000/play/a017
+http://192.168.220.254:8000/play/a017?ts
 #EXTINF:-1 group-title="-",Panamericana
-http://192.168.220.254:8000/play/a004
+http://192.168.220.254:8000/play/a004?ts
 #EXTINF:-1 group-title="-",Paramount HD
-http://192.168.220.254:8000/play/a00o
+http://192.168.220.254:8000/play/a00o?ts
 #EXTINF:-1 group-title="-",Pasiones HD
-http://192.168.220.254:8000/play/a016
+http://192.168.220.254:8000/play/a016?ts
 #EXTINF:-1 group-title="-",Playboy
-http://192.168.220.254:8000/play/a00t
+http://192.168.220.254:8000/play/a00t?ts
 #EXTINF:-1 group-title="-",Sony HD
-http://192.168.220.254:8000/play/a01g
+http://192.168.220.254:8000/play/a01g?ts
 #EXTINF:-1 group-title="-",Space HD
-http://192.168.220.254:8000/play/a00c
+http://192.168.220.254:8000/play/a00c?ts
 #EXTINF:-1 group-title="-",Star Channel HD
-http://192.168.220.254:8000/play/a00b
+http://192.168.220.254:8000/play/a00b?ts
 #EXTINF:-1 group-title="-",Studio Universal HD
-http://192.168.220.254:8000/play/a012
+http://192.168.220.254:8000/play/a012?ts
 #EXTINF:-1 group-title="-",TNT HD
-http://192.168.220.254:8000/play/a00j
+http://192.168.220.254:8000/play/a00j?ts
 #EXTINF:-1 group-title="-",TV Peru
-http://192.168.220.254:8000/play/a005
+http://192.168.220.254:8000/play/a005?ts
 #EXTINF:-1 group-title="-",Warner TV HD
-http://192.168.220.254:8000/play/a01p
+http://192.168.220.254:8000/play/a01p?ts
