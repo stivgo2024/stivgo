@@ -1,11 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="-",ATV
-http://192.168.220.254:100/100.m3u8
+http://192.168.220.254:7000/100.m3u8
 #EXTINF:-1 group-title="-",Global
-http://192.168.220.254:101/101.m3u8
+http://192.168.220.254:7000/101.m3u8
 #EXTINF:-1 group-title="-",Movistar Deportes
-http://192.168.220.254:102/102.m3u8
+http://192.168.220.254:7000/102.m3u8
 #EXTINF:-1 group-title="-",Panamericana
-http://192.168.220.254:103/103.m3u8
+http://192.168.220.254:7000/103.m3u8
 #EXTINF:-1 group-title="-",TV Peru
-http://192.168.220.254:104/104.m3u8
+http://192.168.220.254:7000/104.m3u8
+
