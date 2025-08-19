@@ -63,8 +63,6 @@ http://192.168.220.254:8000/play/a004/index.m3u8
 http://192.168.220.254:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="-",Pasiones HD
 http://192.168.220.254:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="-",Playboy
-http://192.168.220.254:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="-",Sony HD
 http://192.168.220.254:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="-",Space HD
@@ -79,3 +77,4 @@ http://192.168.220.254:8000/play/a00j/index.m3u8
 http://192.168.220.254:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="-",Warner Channel HD
 http://192.168.220.254:8000/play/a01p/index.m3u8
+
