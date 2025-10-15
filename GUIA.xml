@@ -79,7 +79,7 @@
 <channel id="NexTV.pe"><display-name>NexTV.pe</display-name></channel>
 <channel id="Nick Jr..pe"><display-name>Nick Jr..pe</display-name></channel>
 <channel id="Nick.pe"><display-name>Nick.pe</display-name></channel>
-<channel id="Panamericana"><display-name>Panamericana TV.pe</display-name></channel>
+<channel id="Panamericana"><display-name>Panamericana</display-name></channel>
 <channel id="Paramount Network.pe"><display-name>Paramount Network.pe</display-name></channel>
 <channel id="PAT.pe"><display-name>PAT.pe</display-name></channel>
 <channel id="PFC.pe"><display-name>PFC.pe</display-name></channel>
@@ -5833,4 +5833,5 @@
 <programme start="20251016060000 +0000" stop="20251016110000 +0000" channel="Willax.pe"><title>Nutrisa</title><desc>Toda la informacion sobre los tratamientos naturales que Nutrisa tiene para mejor la salud de las familias.</desc></programme>
 <programme start="20251016110000 +0000" stop="20251016140000 +0000" channel="Willax.pe"><title>Al día con Willax</title><desc>Un noticiero matutino que lleva hasta sus hogares lo último de la informacion local, nacional e internacional. El formato lleva tambien el comentario deportivo actualizado.</desc></programme>
 </tv>
+
 
