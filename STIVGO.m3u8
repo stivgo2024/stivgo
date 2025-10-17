@@ -7,7 +7,7 @@ http://192.168.220.254:1012/1012.m3u8
 http://192.168.220.254:1030/1030.m3u8
 #EXTINF:-1 tvg-id="GLOBAL TV.pe",Global
 http://192.168.220.254:1031/1031.m3u8
-#EXTINF:-1 tvg-id="PAidRICANA TELEVISION.pe",Paidricana
+#EXTINF:-1 tvg-id="PANAMERICANA TELEVISION.pe",Panamericana
 http://192.168.220.254:1032/1032.m3u8
 #EXTINF:-1 tvg-id="TV PERU.pe",TV Peru
 http://192.168.220.254:1033/1033.m3u8
@@ -47,3 +47,4 @@ http://192.168.220.254:1043/1043.m3u8
 http://192.168.220.254:1077/1077.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY HD.pe",Discovery HD
 http://192.168.220.254:1072/1072.m3u8
+
