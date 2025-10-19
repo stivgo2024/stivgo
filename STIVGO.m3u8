@@ -37,8 +37,6 @@ http://192.168.220.254:1051/1051.m3u8
 http://192.168.220.254:1066/1066.m3u8
 #EXTINF:-1 tvg-id="las estrellas.pe",Las Estrellas HD
 http://192.168.220.254:1064/1064.m3u8
-#EXTINF:-1 tvg-id="",Bethel TV HD
-http://192.168.220.254:1085/1085.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network HD.pe",Cartoon Network
 http://192.168.220.254:1042/1042.m3u8
 #EXTINF:-1 tvg-id="DISNEY JUNIOR.pe",Disney Junior
@@ -47,6 +45,7 @@ http://192.168.220.254:1043/1043.m3u8
 http://192.168.220.254:1077/1077.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY HD.pe",Discovery HD
 http://192.168.220.254:1072/1072.m3u8
+
 
 
 
