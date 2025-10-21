@@ -37,11 +37,11 @@ http://192.168.220.254:1503/1503.m3u8
 http://192.168.220.254:1502/1502.m3u8
 #EXTINF:-1 tvg-id="HBO XTREME.pe",HBO Xtreme HD
 http://192.168.220.254:1504/1504.m3u8
-#EXTINF:-1 tvg-id="STAR CHANNEL HD.pe",Star Channel HD
+#EXTINF:-1 tvg-id="STAR CHANNEL.pe",Star Channel HD
 http://192.168.220.254:1611/1611.m3u8
 #EXTINF:-1 tvg-id="TNT HD.pe",TNT HD
 http://192.168.220.254:1206/1206.m3u8
-#EXTINF:-1 tvg-id="SPACE HD.p",Space HD
+#EXTINF:-1 tvg-id="SPACE HD.pe",Space HD
 http://192.168.220.254:1610/1610.m3u8
 #EXTINF:-1 tvg-id="CINECANAL HD.pe",Cinecanal HD
 http://192.168.220.254:1602/1602.m3u8
@@ -89,6 +89,7 @@ http://192.168.220.254:1403/1403.m3u8
 http://192.168.220.254:1608/1608.m3u8
 #EXTINF:-1 tvg-id="TNT SERIES HD.pe",TNT Series HD
 http://192.168.220.254:1207/1207.m3u8
-#EXTINF:-1, tvg-id="PLAYBOY HD.pe"Playboy HD
+#EXTINF:-1 tvg-id="PLAYBOY HD.pe",Playboy HD
 http://192.168.220.254:1406/1406.m3u8
+
 
