@@ -1,93 +1,94 @@
 #EXTM3U
-#EXTINF:-1,America TV HD
+#EXTINF:-1 tvg-id="AMERICA TELEVISION.pe",America TV HD
 http://192.168.220.254:1200/1200.m3u8
-#EXTINF:-1,Latina HD
+#EXTINF:-1 tvg-id="LATINA HD.pe",Latina HD
 http://192.168.220.254:1204/1204.m3u8
-#EXTINF:-1,ATV
+#EXTINF:-1 tvg-id="ATV HD.pe",ATV
 http://192.168.220.254:1100/1100.m3u8
-#EXTINF:-1,Panamericana
+#EXTINF:-1 tvg-id="PANAMERICANA TELEVISION.pe",Panamericana
 http://192.168.220.254:1102/1102.m3u8
-#EXTINF:-1,Global
+#EXTINF:-1 tvg-id="GLOBAL TV.pe",Global
 http://192.168.220.254:1101/1101.m3u8
-#EXTINF:-1,TV Peru
+#EXTINF:-1 tvg-id="TV PERU HD.pe",TV Peru
 http://192.168.220.254:1103/1103.m3u8
 #EXTINF:-1,Bethel TV
 http://192.168.220.254:1601/1601.m3u8
 #EXTINF:-1,Liga1 MAX HD
 http://192.168.220.254:100/100.m3u8
-#EXTINF:-1,ESPN 1 HD
+#EXTINF:-1 tvg-id="ESPN HD.pe",ESPN 1 HD
 http://192.168.220.254:1501/1501.m3u8
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN 2 HD.pe",ESPN 2 HD
 http://192.168.220.254:1500/1500.m3u8
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1 tvg-id="ESPN 3 HD.pe",ESPN 3 HD
 http://192.168.220.254:1201/1201.m3u8
-#EXTINF:-1,ESPN 4 HD
+#EXTINF:-1 tvg-id="ESPN 4 HD.pe",ESPN 4 HD
 http://192.168.220.254:1202/1202.m3u8
-#EXTINF:-1,ESPN 5 HD
+#EXTINF:-1 tvg-id="ESPN 5 HD.pe",ESPN 5 HD
 http://192.168.220.254:1404/1404.m3u8
-#EXTINF:-1,ESPN 6 HD
+#EXTINF:-1 tvg-id="ESPN 6 HD.pe",ESPN 6 HD
 http://192.168.220.254:1203/1203.m3u8
-#EXTINF:-1,ESPN 7 HD
+#EXTINF:-1 tvg-id="ESPN 7 HD.pe",ESPN 7 HD
 http://192.168.220.254:1605/1605.m3u8
-#EXTINF:-1,HBO HD
+#EXTINF:-1 tvg-id="HBO.pe",HBO HD
 http://192.168.220.254:1405/1405.m3u8
-#EXTINF:-1,HBO POP HD
+#EXTINF:-1 tvg-id="HBO POP.pe",HBO POP HD
 http://192.168.220.254:1503/1503.m3u8
-#EXTINF:-1,HBO Family HD
+#EXTINF:-1 tvg-id="HBO FAMILY.pe",HBO Family HD
 http://192.168.220.254:1502/1502.m3u8
-#EXTINF:-1,HBO Xtreme HD
+#EXTINF:-1 tvg-id="HBO XTREME.pe",HBO Xtreme HD
 http://192.168.220.254:1504/1504.m3u8
-#EXTINF:-1,Star Channel HD
+#EXTINF:-1 tvg-id="STAR CHANNEL HD.pe",Star Channel HD
 http://192.168.220.254:1611/1611.m3u8
-#EXTINF:-1,TNT HD
+#EXTINF:-1 tvg-id="TNT HD.pe",TNT HD
 http://192.168.220.254:1206/1206.m3u8
-#EXTINF:-1,Space HD
+#EXTINF:-1 tvg-id="SPACE HD.p",Space HD
 http://192.168.220.254:1610/1610.m3u8
-#EXTINF:-1,Cinecanal HD
+#EXTINF:-1 tvg-id="CINECANAL HD.pe",Cinecanal HD
 http://192.168.220.254:1602/1602.m3u8
-#EXTINF:-1,Paramount HD
+#EXTINF:-1 tvg-id="PARAMOUNT HD.pe",Paramount HD
 http://192.168.220.254:1205/1205.m3u8
-#EXTINF:-1,Sony HD
+#EXTINF:-1 tvg-id="SONY.pe",Sony HD
 http://192.168.220.254:1609/1609.m3u8
-#EXTINF:-1,FX HD
+#EXTINF:-1 tvg-id="FX HD.pe",FX HD
 http://192.168.220.254:1606/1606.m3u8
-#EXTINF:-1,Universal Channel
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.pe",Universal Channel
 http://192.168.220.254:1407/1407.m3u8
-#EXTINF:-1,Warner HD
+#EXTINF:-1 tvg-id="WARNER CHANNEL HD.pe",Warner HD
 http://192.168.220.254:1612/1612.m3u8
-#EXTINF:-1,Cinemax HD
+#EXTINF:-1 tvg-id="CINEMAX HD.pe",Cinemax HD
 http://192.168.220.254:1301/1301.m3u8
-#EXTINF:-1,AMC HD
+#EXTINF:-1 tvg-id="AMC HD.pe",AMC HD
 http://192.168.220.254:1401/1401.m3u8
 #EXTINF:-1,AXN HD
 http://192.168.220.254:1600/1600.m3u8
 #EXTINF:-1,A&E HD
 http://192.168.220.254:1400/1400.m3u8
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network HD.pe",Cartoon Network
 http://192.168.220.254:1300/1300.m3u8
-#EXTINF:-1,Disney Jr.
+#EXTINF:-1 tvg-id="DISNEY JUNIOR.pe",Disney Jr.
 http://192.168.220.254:1303/1303.m3u8
-#EXTINF:-1,Discovery Kids
+#EXTINF:-1 tvg-id="DISCOVERY KIDS HD.pe",Discovery Kids
 http://192.168.220.254:1302/1302.m3u8
-#EXTINF:-1,Nickelodeon HD
+#EXTINF:-1 tvg-id="NICKELODEON.pe",Nickelodeon HD
 http://192.168.220.254:1506/1506.m3u8
-#EXTINF:-1,Disney Channel
+#EXTINF:-1 tvg-id="DISNEY CHANNEL HD.pe",Disney Channel
 http://192.168.220.254:1604/1604.m3u8
-#EXTINF:-1,Discovery HD
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.pe",Discovery HD
 http://192.168.220.254:1603/1603.m3u8
-#EXTINF:-1,History Channel
+#EXTINF:-1 tvg-id="HISTORY CHANNEL.pe",History Channel
 http://192.168.220.254:1607/1607.m3u8
-#EXTINF:-1,Discovery World
+#EXTINF:-1 tvg-id="DISCOVERY WORLD HD.pe",Discovery World
 http://192.168.220.254:1402/1402.m3u8
-#EXTINF:-1,Las Estrellas HD
+#EXTINF:-1 tvg-id="las estrellas.pe",Las Estrellas HD
 http://192.168.220.254:1505/1505.m3u8
-#EXTINF:-1,Pasiones HD
+#EXTINF:-1 tvg-id="Pasiones HD.pe",Pasiones HD
 http://192.168.220.254:1507/1507.m3u8
-#EXTINF:-1,El Gourmet HD
+#EXTINF:-1 tvg-id="EL GOURMET HD.pe",El Gourmet HD
 http://192.168.220.254:1403/1403.m3u8
 #EXTINF:-1,ID HD
 http://192.168.220.254:1608/1608.m3u8
-#EXTINF:-1,TNT Series HD
+#EXTINF:-1 tvg-id="TNT SERIES HD.pe",TNT Series HD
 http://192.168.220.254:1207/1207.m3u8
-#EXTINF:-1,Playboy HD
+#EXTINF:-1, tvg-id="PLAYBOY HD.pe"Playboy HD
 http://192.168.220.254:1406/1406.m3u8
+
