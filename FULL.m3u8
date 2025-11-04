@@ -9,8 +9,6 @@ http://192.168.220.254:1100/1100.m3u8
 http://192.168.220.254:1102/1102.m3u8
 #EXTINF:-1 tvg-id="GLOBAL TV.pe",Global
 http://192.168.220.254:1101/1101.m3u8
-#EXTINF:-1 tvg-id="TV PERU HD.pe",TV Peru
-http://192.168.220.254:1103/1103.m3u8
 #EXTINF:-1,Bethel TV
 http://192.168.220.254:1601/1601.m3u8
 #EXTINF:-1,Liga1 MAX HD
@@ -91,5 +89,6 @@ http://192.168.220.254:1608/1608.m3u8
 http://192.168.220.254:1207/1207.m3u8
 #EXTINF:-1 tvg-id="PLAYBOY HD.pe",Playboy HD
 http://192.168.220.254:1406/1406.m3u8
+
 
 
