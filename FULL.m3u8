@@ -89,6 +89,7 @@ http://192.168.220.254:1608/1608.m3u8
 http://192.168.220.254:1207/1207.m3u8
 #EXTINF:-1 tvg-id="PLAYBOY HD.pe",Playboy HD
 http://192.168.220.254:1406/1406.m3u8
-
-
-
+#EXTINF:-1 tvg-id="SEXTREME.pe",Sextreme
+http://192.168.220.254:101/101.m3u8
+#EXTINF:-1 tvg-id="VENUS.pe",Venus
+http://192.168.220.254:102/102.m3u8
