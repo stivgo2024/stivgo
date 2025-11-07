@@ -9,22 +9,26 @@ http://192.168.220.254:1100/1100.m3u8
 http://192.168.220.254:1102/1102.m3u8
 #EXTINF:-1 tvg-id="GLOBAL TV.pe",Global
 http://192.168.220.254:1101/1101.m3u8
+#EXTINF:-1 tvg-id="RPP TV.pe",RPP
+http://192.168.220.254:1104/1104.m3u8
 #EXTINF:-1,Bethel TV
 http://192.168.220.254:1601/1601.m3u8
 #EXTINF:-1,Liga1 MAX HD
 http://192.168.220.254:100/100.m3u8
+#EXTINF:-1,TNT Sports Premiun HD
+http://192.168.220.254:1510/1510.m3u8
 #EXTINF:-1 tvg-id="ESPN HD.pe",ESPN 1 HD
 http://192.168.220.254:1501/1501.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 HD.pe",ESPN 2 HD
 http://192.168.220.254:1500/1500.m3u8
 #EXTINF:-1 tvg-id="ESPN 3 HD.pe",ESPN 3 HD
-http://192.168.220.254:1201/1201.m3u8
+http://192.168.220.254:1409/1409.m3u8
 #EXTINF:-1 tvg-id="ESPN 4 HD.pe",ESPN 4 HD
-http://192.168.220.254:1202/1202.m3u8
+http://192.168.220.254:1614/1614.m3u8
 #EXTINF:-1 tvg-id="ESPN 5 HD.pe",ESPN 5 HD
 http://192.168.220.254:1404/1404.m3u8
 #EXTINF:-1 tvg-id="ESPN 6 HD.pe",ESPN 6 HD
-http://192.168.220.254:1203/1203.m3u8
+http://192.168.220.254:1410/1410.m3u8
 #EXTINF:-1 tvg-id="ESPN 7 HD.pe",ESPN 7 HD
 http://192.168.220.254:1605/1605.m3u8
 #EXTINF:-1 tvg-id="HBO.pe",HBO HD
@@ -38,13 +42,15 @@ http://192.168.220.254:1504/1504.m3u8
 #EXTINF:-1 tvg-id="STAR CHANNEL.pe",Star Channel HD
 http://192.168.220.254:1611/1611.m3u8
 #EXTINF:-1 tvg-id="TNT HD.pe",TNT HD
-http://192.168.220.254:1206/1206.m3u8
+http://192.168.220.254:1616/1616.m3u8
 #EXTINF:-1 tvg-id="SPACE HD.pe",Space HD
 http://192.168.220.254:1610/1610.m3u8
 #EXTINF:-1 tvg-id="CINECANAL HD.pe",Cinecanal HD
 http://192.168.220.254:1602/1602.m3u8
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL.pe",Studio Universal HD
+http://192.168.220.254:1202/1202.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT HD.pe",Paramount HD
-http://192.168.220.254:1205/1205.m3u8
+http://192.168.220.254:1413/1413.m3u8
 #EXTINF:-1 tvg-id="SONY.pe",Sony HD
 http://192.168.220.254:1609/1609.m3u8
 #EXTINF:-1 tvg-id="FX HD.pe",FX HD
@@ -63,6 +69,8 @@ http://192.168.220.254:1600/1600.m3u8
 http://192.168.220.254:1400/1400.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network HD.pe",Cartoon Network
 http://192.168.220.254:1300/1300.m3u8
+#EXTINF:-1 tvg-id="BABY TV.pe",Baby TV
+http://192.168.220.254:1305/1305.m3u8
 #EXTINF:-1 tvg-id="DISNEY JUNIOR.pe",Disney Jr.
 http://192.168.220.254:1303/1303.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY KIDS HD.pe",Discovery Kids
@@ -71,22 +79,39 @@ http://192.168.220.254:1302/1302.m3u8
 http://192.168.220.254:1506/1506.m3u8
 #EXTINF:-1 tvg-id="DISNEY CHANNEL HD.pe",Disney Channel
 http://192.168.220.254:1604/1604.m3u8
+#EXTINF:-1 tvg-id="ADULT SWIM.pe",Adult Swim
+http://192.168.220.254:1304/1304.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL.pe",Discovery HD
 http://192.168.220.254:1603/1603.m3u8
 #EXTINF:-1 tvg-id="HISTORY CHANNEL.pe",History Channel
 http://192.168.220.254:1607/1607.m3u8
+#EXTINF:-1 tvg-id="NAT GEO HD.pe",Nat Geo HD
+http://192.168.220.254:1615/1615.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PLANET HD.pe",Animal Planet HD
+http://192.168.220.254:1613/1613.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY WORLD HD.pe",Discovery World
 http://192.168.220.254:1402/1402.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY THEATER HD.pe",Discovery Theater HD
+http://192.168.220.254:1508/1508.m3u8
 #EXTINF:-1 tvg-id="las estrellas.pe",Las Estrellas HD
 http://192.168.220.254:1505/1505.m3u8
 #EXTINF:-1 tvg-id="Pasiones HD.pe",Pasiones HD
 http://192.168.220.254:1507/1507.m3u8
 #EXTINF:-1 tvg-id="EL GOURMET HD.pe",El Gourmet HD
 http://192.168.220.254:1403/1403.m3u8
+#EXTINF:-1,Sun Channel HD
+http://192.168.220.254:1509/1509.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY HOME and GARDEN.pe",Discovery H&H HD
+http://192.168.220.254:1306/1306.m3u8
 #EXTINF:-1,ID HD
 http://192.168.220.254:1608/1608.m3u8
+#EXTINF:-1 tvg-id="COMEDY CENTRAL HD.pe",Comedy Central HD
+http://192.168.220.254:1608/1608.m3u8
 #EXTINF:-1 tvg-id="TNT SERIES HD.pe",TNT Series HD
-http://192.168.220.254:1207/1207.m3u8
-
-
-
+http://192.168.220.254:1414/1414.m3u8
+#EXTINF:-1 tvg-id="MTV HD.pe",MTV HD
+http://192.168.220.254:1411/1411.m3u8
+#EXTINF:-1 tvg-id="MTV HITS.pe",MTV Live
+http://192.168.220.254:1412/1412.m3u8
+#EXTINF:-1,Stingray Concerts HD
+http://192.168.220.254:1201/1201.m3u8
