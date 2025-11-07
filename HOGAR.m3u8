@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AMERICA TELEVISION.pe",America TV
+#EXTINF:-1 tvg-id="AMERICA TELEVISION.pe",America
 http://192.168.220.254:1200/1200.m3u8
 #EXTINF:-1 tvg-id="LATINA HD.pe",Latina
 http://192.168.220.254:1204/1204.m3u8
@@ -11,11 +11,11 @@ http://192.168.220.254:1102/1102.m3u8
 http://192.168.220.254:1101/1101.m3u8
 #EXTINF:-1 tvg-id="RPP TV.pe",RPP
 http://192.168.220.254:1104/1104.m3u8
-#EXTINF:-1,Bethel TV
+#EXTINF:-1,Bethel
 http://192.168.220.254:1601/1601.m3u8
 #EXTINF:-1,Liga1 MAX
 http://192.168.220.254:100/100.m3u8
-#EXTINF:-1,TNT Sports Premiun
+#EXTINF:-1,TNT Sports
 http://192.168.220.254:1510/1510.m3u8
 #EXTINF:-1 tvg-id="ESPN HD.pe",ESPN
 http://192.168.220.254:1501/1501.m3u8
@@ -55,7 +55,7 @@ http://192.168.220.254:1413/1413.m3u8
 http://192.168.220.254:1609/1609.m3u8
 #EXTINF:-1 tvg-id="FX HD.pe",FX
 http://192.168.220.254:1606/1606.m3u8
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.pe",Universal Channel
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.pe",Universal
 http://192.168.220.254:1407/1407.m3u8
 #EXTINF:-1 tvg-id="WARNER CHANNEL HD.pe",Warner Channel
 http://192.168.220.254:1612/1612.m3u8
@@ -71,7 +71,7 @@ http://192.168.220.254:1400/1400.m3u8
 http://192.168.220.254:1300/1300.m3u8
 #EXTINF:-1 tvg-id="BABY TV.pe",Baby TV
 http://192.168.220.254:1305/1305.m3u8
-#EXTINF:-1 tvg-id="DISNEY JUNIOR.pe",Disney Jr.
+#EXTINF:-1 tvg-id="DISNEY JUNIOR.pe",Disney Junior
 http://192.168.220.254:1303/1303.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY KIDS HD.pe",Discovery Kids
 http://192.168.220.254:1302/1302.m3u8
@@ -81,7 +81,7 @@ http://192.168.220.254:1506/1506.m3u8
 http://192.168.220.254:1604/1604.m3u8
 #EXTINF:-1 tvg-id="ADULT SWIM.pe",Adult Swim
 http://192.168.220.254:1304/1304.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.pe",Discovery
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.pe",Discovery Channel
 http://192.168.220.254:1603/1603.m3u8
 #EXTINF:-1 tvg-id="HISTORY CHANNEL.pe",History Channel
 http://192.168.220.254:1607/1607.m3u8
@@ -115,5 +115,6 @@ http://192.168.220.254:1411/1411.m3u8
 http://192.168.220.254:1412/1412.m3u8
 #EXTINF:-1,Stingray Concerts
 http://192.168.220.254:1201/1201.m3u8
+
 
 
