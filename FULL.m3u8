@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AMERICA TELEVISION.pe",America TV HD
+#EXTINF:-1 tvg-id="AMERICA TELEVISION.pe",America
 http://192.168.220.254:1200/1200.m3u8
-#EXTINF:-1 tvg-id="LATINA HD.pe",Latina HD
+#EXTINF:-1 tvg-id="LATINA HD.pe",Latina
 http://192.168.220.254:1204/1204.m3u8
 #EXTINF:-1 tvg-id="ATV HD.pe",ATV
 http://192.168.220.254:1100/1100.m3u8
@@ -11,109 +11,109 @@ http://192.168.220.254:1102/1102.m3u8
 http://192.168.220.254:1101/1101.m3u8
 #EXTINF:-1 tvg-id="RPP TV.pe",RPP
 http://192.168.220.254:1104/1104.m3u8
-#EXTINF:-1,Bethel TV
+#EXTINF:-1,Bethel
 http://192.168.220.254:1601/1601.m3u8
-#EXTINF:-1,Liga1 MAX HD
+#EXTINF:-1,Liga1 MAX
 http://192.168.220.254:100/100.m3u8
-#EXTINF:-1,TNT Sports Premiun HD
+#EXTINF:-1,TNT Sports
 http://192.168.220.254:1510/1510.m3u8
-#EXTINF:-1 tvg-id="ESPN HD.pe",ESPN 1 HD
+#EXTINF:-1 tvg-id="ESPN HD.pe",ESPN
 http://192.168.220.254:1501/1501.m3u8
-#EXTINF:-1 tvg-id="ESPN 2 HD.pe",ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN 2 HD.pe",ESPN 2
 http://192.168.220.254:1500/1500.m3u8
-#EXTINF:-1 tvg-id="ESPN 3 HD.pe",ESPN 3 HD
+#EXTINF:-1 tvg-id="ESPN 3 HD.pe",ESPN 3
 http://192.168.220.254:1409/1409.m3u8
-#EXTINF:-1 tvg-id="ESPN 4 HD.pe",ESPN 4 HD
+#EXTINF:-1 tvg-id="ESPN 4 HD.pe",ESPN 4
 http://192.168.220.254:1614/1614.m3u8
-#EXTINF:-1 tvg-id="ESPN 5 HD.pe",ESPN 5 HD
+#EXTINF:-1 tvg-id="ESPN 5 HD.pe",ESPN 5
 http://192.168.220.254:1404/1404.m3u8
-#EXTINF:-1 tvg-id="ESPN 6 HD.pe",ESPN 6 HD
+#EXTINF:-1 tvg-id="ESPN 6 HD.pe",ESPN 6
 http://192.168.220.254:1410/1410.m3u8
-#EXTINF:-1 tvg-id="ESPN 7 HD.pe",ESPN 7 HD
+#EXTINF:-1 tvg-id="ESPN 7 HD.pe",ESPN 7
 http://192.168.220.254:1605/1605.m3u8
-#EXTINF:-1 tvg-id="HBO.pe",HBO HD
+#EXTINF:-1 tvg-id="HBO.pe",HBO
 http://192.168.220.254:1405/1405.m3u8
-#EXTINF:-1 tvg-id="HBO POP.pe",HBO POP HD
+#EXTINF:-1 tvg-id="HBO POP.pe",HBO POP
 http://192.168.220.254:1503/1503.m3u8
-#EXTINF:-1 tvg-id="HBO FAMILY.pe",HBO Family HD
+#EXTINF:-1 tvg-id="HBO FAMILY.pe",HBO Family
 http://192.168.220.254:1502/1502.m3u8
-#EXTINF:-1 tvg-id="HBO XTREME.pe",HBO Xtreme HD
+#EXTINF:-1 tvg-id="HBO XTREME.pe",HBO Xtreme
 http://192.168.220.254:1504/1504.m3u8
-#EXTINF:-1 tvg-id="STAR CHANNEL.pe",Star Channel HD
+#EXTINF:-1 tvg-id="STAR CHANNEL.pe",Star Channel
 http://192.168.220.254:1611/1611.m3u8
-#EXTINF:-1 tvg-id="TNT HD.pe",TNT HD
+#EXTINF:-1 tvg-id="TNT HD.pe",TNT
 http://192.168.220.254:1616/1616.m3u8
-#EXTINF:-1 tvg-id="SPACE HD.pe",Space HD
+#EXTINF:-1 tvg-id="SPACE HD.pe",Space
 http://192.168.220.254:1610/1610.m3u8
-#EXTINF:-1 tvg-id="CINECANAL HD.pe",Cinecanal HD
+#EXTINF:-1 tvg-id="CINECANAL HD.pe",Cinecanal
 http://192.168.220.254:1602/1602.m3u8
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL.pe",Studio Universal HD
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL.pe",Studio Universal
 http://192.168.220.254:1202/1202.m3u8
-#EXTINF:-1 tvg-id="PARAMOUNT HD.pe",Paramount HD
+#EXTINF:-1 tvg-id="PARAMOUNT HD.pe",Paramount
 http://192.168.220.254:1413/1413.m3u8
-#EXTINF:-1 tvg-id="SONY.pe",Sony HD
+#EXTINF:-1 tvg-id="SONY.pe",Sony
 http://192.168.220.254:1609/1609.m3u8
-#EXTINF:-1 tvg-id="FX HD.pe",FX HD
+#EXTINF:-1 tvg-id="FX HD.pe",FX
 http://192.168.220.254:1606/1606.m3u8
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.pe",Universal Channel
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.pe",Universal
 http://192.168.220.254:1407/1407.m3u8
-#EXTINF:-1 tvg-id="WARNER CHANNEL HD.pe",Warner HD
+#EXTINF:-1 tvg-id="WARNER CHANNEL HD.pe",Warner Channel
 http://192.168.220.254:1612/1612.m3u8
-#EXTINF:-1 tvg-id="CINEMAX HD.pe",Cinemax HD
+#EXTINF:-1 tvg-id="CINEMAX HD.pe",Cinemax
 http://192.168.220.254:1301/1301.m3u8
-#EXTINF:-1 tvg-id="AMC HD.pe",AMC HD
+#EXTINF:-1 tvg-id="AMC HD.pe",AMC
 http://192.168.220.254:1401/1401.m3u8
-#EXTINF:-1,AXN HD
+#EXTINF:-1,AXN
 http://192.168.220.254:1600/1600.m3u8
-#EXTINF:-1,A&E HD
+#EXTINF:-1,A&E
 http://192.168.220.254:1400/1400.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network HD.pe",Cartoon Network
 http://192.168.220.254:1300/1300.m3u8
 #EXTINF:-1 tvg-id="BABY TV.pe",Baby TV
 http://192.168.220.254:1305/1305.m3u8
-#EXTINF:-1 tvg-id="DISNEY JUNIOR.pe",Disney Jr.
+#EXTINF:-1 tvg-id="DISNEY JUNIOR.pe",Disney Junior
 http://192.168.220.254:1303/1303.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY KIDS HD.pe",Discovery Kids
 http://192.168.220.254:1302/1302.m3u8
-#EXTINF:-1 tvg-id="NICKELODEON.pe",Nickelodeon HD
+#EXTINF:-1 tvg-id="NICKELODEON.pe",Nickelodeon
 http://192.168.220.254:1506/1506.m3u8
 #EXTINF:-1 tvg-id="DISNEY CHANNEL HD.pe",Disney Channel
 http://192.168.220.254:1604/1604.m3u8
 #EXTINF:-1 tvg-id="ADULT SWIM.pe",Adult Swim
 http://192.168.220.254:1304/1304.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.pe",Discovery HD
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.pe",Discovery Channel
 http://192.168.220.254:1603/1603.m3u8
 #EXTINF:-1 tvg-id="HISTORY CHANNEL.pe",History Channel
 http://192.168.220.254:1607/1607.m3u8
-#EXTINF:-1 tvg-id="NAT GEO HD.pe",Nat Geo HD
+#EXTINF:-1 tvg-id="NAT GEO HD.pe",Nat Geo
 http://192.168.220.254:1615/1615.m3u8
-#EXTINF:-1 tvg-id="ANIMAL PLANET HD.pe",Animal Planet HD
+#EXTINF:-1 tvg-id="ANIMAL PLANET HD.pe",Animal Planet
 http://192.168.220.254:1613/1613.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY WORLD HD.pe",Discovery World
 http://192.168.220.254:1402/1402.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY THEATER HD.pe",Discovery Theater HD
+#EXTINF:-1 tvg-id="DISCOVERY THEATER HD.pe",Discovery Theater
 http://192.168.220.254:1508/1508.m3u8
-#EXTINF:-1 tvg-id="las estrellas.pe",Las Estrellas HD
+#EXTINF:-1 tvg-id="las estrellas.pe",Las Estrellas
 http://192.168.220.254:1505/1505.m3u8
-#EXTINF:-1 tvg-id="Pasiones HD.pe",Pasiones HD
+#EXTINF:-1 tvg-id="Pasiones HD.pe",Pasiones
 http://192.168.220.254:1507/1507.m3u8
-#EXTINF:-1 tvg-id="EL GOURMET HD.pe",El Gourmet HD
+#EXTINF:-1 tvg-id="EL GOURMET HD.pe",El Gourmet
 http://192.168.220.254:1403/1403.m3u8
-#EXTINF:-1,Sun Channel HD
+#EXTINF:-1,Sun Channel
 http://192.168.220.254:1509/1509.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY HOME and GARDEN.pe",Discovery H&H HD
+#EXTINF:-1 tvg-id="DISCOVERY HOME and GARDEN.pe",Discovery H&H
 http://192.168.220.254:1306/1306.m3u8
-#EXTINF:-1,ID HD
+#EXTINF:-1,ID
 http://192.168.220.254:1608/1608.m3u8
-#EXTINF:-1 tvg-id="COMEDY CENTRAL HD.pe",Comedy Central HD
+#EXTINF:-1 tvg-id="COMEDY CENTRAL HD.pe",Comedy Central
 http://192.168.220.254:1408/1408.m3u8
-#EXTINF:-1 tvg-id="TNT SERIES HD.pe",TNT Series HD
+#EXTINF:-1 tvg-id="TNT SERIES HD.pe",TNT Series
 http://192.168.220.254:1414/1414.m3u8
-#EXTINF:-1 tvg-id="MTV HD.pe",MTV HD
+#EXTINF:-1 tvg-id="MTV HD.pe",MTV
 http://192.168.220.254:1411/1411.m3u8
 #EXTINF:-1 tvg-id="MTV HITS.pe",MTV Live
 http://192.168.220.254:1412/1412.m3u8
-#EXTINF:-1,Stingray Concerts HD
+#EXTINF:-1,Stingray Concerts
 http://192.168.220.254:1201/1201.m3u8
 #EXTINF:-1 tvg-id="PLAYBOY HD.pe",Playboy HD
 http://192.168.220.254:1406/1406.m3u8
@@ -121,4 +121,3 @@ http://192.168.220.254:1406/1406.m3u8
 http://192.168.220.254:1103/1103.m3u8
 #EXTINF:-1 tvg-id="VENUS.pe",Venus
 http://192.168.220.254:102/102.m3u8
-
