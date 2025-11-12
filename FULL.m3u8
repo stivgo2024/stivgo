@@ -9,8 +9,6 @@ http://192.168.220.254:1100/1100.m3u8
 http://192.168.220.254:1102/1102.m3u8
 #EXTINF:-1 tvg-id="GLOBAL TV.pe",Global
 http://192.168.220.254:1101/1101.m3u8
-#EXTINF:-1 tvg-id="RPP TV.pe",RPP
-http://192.168.220.254:1104/1104.m3u8
 #EXTINF:-1,Bethel
 http://192.168.220.254:1601/1601.m3u8
 #EXTINF:-1,Liga1 MAX
@@ -33,12 +31,8 @@ http://192.168.220.254:1410/1410.m3u8
 http://192.168.220.254:1605/1605.m3u8
 #EXTINF:-1 tvg-id="HBO.pe",HBO
 http://192.168.220.254:1405/1405.m3u8
-#EXTINF:-1 tvg-id="HBO 2.pe",HBO 2
-http://192.168.220.254:1415/1415.m3u8
 #EXTINF:-1 tvg-id="HBO POP.pe",HBO POP
 http://192.168.220.254:1503/1503.m3u8
-#EXTINF:-1 tvg-id="HBO PLUS.pe",HBO Plus
-http://192.168.220.254:1416/1416.m3u8
 #EXTINF:-1 tvg-id="HBO FAMILY.pe",HBO Family
 http://192.168.220.254:1502/1502.m3u8
 #EXTINF:-1 tvg-id="HBO XTREME.pe",HBO Xtreme
@@ -71,12 +65,8 @@ http://192.168.220.254:1600/1600.m3u8
 http://192.168.220.254:1407/1407.m3u8
 #EXTINF:-1,A&E
 http://192.168.220.254:1400/1400.m3u8
-#EXTINF:-1,DHE
-http://192.168.220.254:1511/1511.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network HD.pe",Cartoon Network
 http://192.168.220.254:1300/1300.m3u8
-#EXTINF:-1 tvg-id="BABY TV.pe",Baby TV
-http://192.168.220.254:1305/1305.m3u8
 #EXTINF:-1 tvg-id="DISNEY JUNIOR.pe",Disney Junior
 http://192.168.220.254:1303/1303.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY KIDS HD.pe",Discovery Kids
@@ -91,40 +81,17 @@ http://192.168.220.254:1304/1304.m3u8
 http://192.168.220.254:1603/1603.m3u8
 #EXTINF:-1 tvg-id="HISTORY CHANNEL.pe",History Channel
 http://192.168.220.254:1607/1607.m3u8
-#EXTINF:-1 tvg-id="NAT GEO HD.pe",Nat Geo
-http://192.168.220.254:1615/1615.m3u8
-#EXTINF:-1 tvg-id="ANIMAL PLANET HD.pe",Animal Planet
-http://192.168.220.254:1613/1613.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY WORLD HD.pe",Discovery World
 http://192.168.220.254:1402/1402.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY THEATER HD.pe",Discovery Theater
-http://192.168.220.254:1508/1508.m3u8
 #EXTINF:-1 tvg-id="las estrellas.pe",Las Estrellas
 http://192.168.220.254:1505/1505.m3u8
 #EXTINF:-1 tvg-id="Pasiones HD.pe",Pasiones
 http://192.168.220.254:1507/1507.m3u8
-#EXTINF:-1 tvg-id="TNT NOVELAS HD.pe",TNT Novelas
-http://192.168.220.254:1417/1417.m3u8
 #EXTINF:-1 tvg-id="EL GOURMET HD.pe",El Gourmet
 http://192.168.220.254:1403/1403.m3u8
-#EXTINF:-1,Sun Channel
-http://192.168.220.254:1509/1509.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY HOME and GARDEN.pe",Discovery H&H
 http://192.168.220.254:1306/1306.m3u8
-#EXTINF:-1,ID
-http://192.168.220.254:1608/1608.m3u8
 #EXTINF:-1 tvg-id="COMEDY CENTRAL HD.pe",Comedy Central
 http://192.168.220.254:1408/1408.m3u8
-#EXTINF:-1 tvg-id="TNT SERIES HD.pe",TNT Series
-http://192.168.220.254:1414/1414.m3u8
-#EXTINF:-1 tvg-id="MTV HD.pe",MTV
-http://192.168.220.254:1411/1411.m3u8
-#EXTINF:-1 tvg-id="MTV HITS.pe",MTV Live
-http://192.168.220.254:1412/1412.m3u8
-#EXTINF:-1,Stingray Concerts
-http://192.168.220.254:1201/1201.m3u8
-#EXTINF:-1 tvg-id="PLAYBOY HD.pe",Playboy HD
-http://192.168.220.254:1406/1406.m3u8
 #EXTINF:-1 tvg-id="SEXTREME.pe",Sextreme
 http://192.168.220.254:1103/1103.m3u8
-
