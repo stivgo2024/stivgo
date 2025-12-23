@@ -5,15 +5,15 @@ http://192.168.220.254:8000/play/a02e/index.m3u8?hls
 http://192.168.220.254:8000/play/a02d/index.m3u8?hls
 #EXTINF:-1 group-title="-",ATV
 http://192.168.220.254:8000/play/a02g/index.m3u8?hls
-#EXTINF:-1 group-title="-",Panamericana TV
+#EXTINF:-1 group-title="-",Panamericana
 http://192.168.220.254:8000/play/a02f/index.m3u8?hls
 #EXTINF:-1 group-title="-",TV Peru
 http://192.168.220.254:8000/play/a02i/index.m3u8?hls
 #EXTINF:-1 group-title="-",Willax
 http://192.168.220.254:8000/play/a02b/index.m3u8?hls
-#EXTINF:-1 group-title="-",BETHEL TV
+#EXTINF:-1 group-title="-",Bethel TV
 http://192.168.220.254:8000/play/a049/index.m3u8?hls
-#EXTINF:-1 group-title="-",Liga1 MAX
+#EXTINF:-1 group-title="-",Liga1 Max
 http://192.168.220.254:8000/play/a07g/index.m3u8?hls
 #EXTINF:-1 group-title="-",ESPN Premium
 http://192.168.220.254:8000/play/a06n/index.m3u8?hls
@@ -59,15 +59,15 @@ http://192.168.220.254:8000/play/a070/index.m3u8?hls
 http://192.168.220.254:8000/play/a00o/index.m3u8?hls
 #EXTINF:-1 group-title="-",Space
 http://192.168.220.254:8000/play/a02u/index.m3u8?hls
-#EXTINF:-1 group-title="-",STAR Channel
+#EXTINF:-1 group-title="-",Star Channel
 http://192.168.220.254:8000/play/a00l/index.m3u8?hls
-#EXTINF:-1 group-title="-",Warner
+#EXTINF:-1 group-title="-",Warner Channel
 http://192.168.220.254:8000/play/a01m/index.m3u8?hls
 #EXTINF:-1 group-title="-",FX
 http://192.168.220.254:8000/play/a02v/index.m3u8?hls
 #EXTINF:-1 group-title="-",Sony
 http://192.168.220.254:8000/play/a02s/index.m3u8?hls
-#EXTINF:-1 group-title="-",Universal
+#EXTINF:-1 group-title="-",Universal Channel
 http://192.168.220.254:8000/play/a00h/index.m3u8?hls
 #EXTINF:-1 group-title="-",AXN 
 http://192.168.220.254:8000/play/a02t/index.m3u8?hls
@@ -103,7 +103,7 @@ http://192.168.220.254:8000/play/a00d/index.m3u8?hls
 http://192.168.220.254:8000/play/a01i/index.m3u8?hls
 #EXTINF:-1 group-title="-",Sun Channel
 http://192.168.220.254:8000/play/a06q/index.m3u8?hls
-#EXTINF:-1 group-title="-",Home and Health
+#EXTINF:-1 group-title="-",Discovery Home and Health
 http://192.168.220.254:8000/play/a02c/index.m3u8?hls
 #EXTINF:-1 group-title="-",ID
 http://192.168.220.254:8000/play/a027/index.m3u8?hls
