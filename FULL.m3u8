@@ -105,6 +105,8 @@ http://192.168.220.254:8000/play/a01i/index.m3u8?hls
 http://192.168.220.254:8000/play/a06q/index.m3u8?hls
 #EXTINF:-1 group-title="-",Discovery Home and Health
 http://192.168.220.254:8000/play/a02c/index.m3u8?hls
+#EXTINF:-1 group-title="-",TLC
+http://192.168.220.254:8000/play/a01w/index.m3u8?hls
 #EXTINF:-1 group-title="-",ID
 http://192.168.220.254:8000/play/a027/index.m3u8?hls
 #EXTINF:-1 group-title="-",Lifetime
