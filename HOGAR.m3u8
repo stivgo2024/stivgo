@@ -83,8 +83,6 @@ http://192.168.220.254:8000/play/a01u/index.m3u8?hls
 http://192.168.220.254:8000/play/a00m/index.m3u8?hls
 #EXTINF:-1 group-title="-",USA
 http://192.168.220.254:8000/play/a00w/index.m3u8?hls
-#EXTINF:-1 group-title="-",TLC
-http://192.168.220.254:8000/play/a01w/index.m3u8?hls
 #EXTINF:-1 group-title="-",Baby First
 http://192.168.220.254:8000/play/a00u/index.m3u8?hls
 #EXTINF:-1 group-title="-",Disney Jr
@@ -105,6 +103,8 @@ http://192.168.220.254:8000/play/a01i/index.m3u8?hls
 http://192.168.220.254:8000/play/a06q/index.m3u8?hls
 #EXTINF:-1 group-title="-",Discovery Home and Health
 http://192.168.220.254:8000/play/a02c/index.m3u8?hls
+#EXTINF:-1 group-title="-",TLC
+http://192.168.220.254:8000/play/a01w/index.m3u8?hls
 #EXTINF:-1 group-title="-",ID
 http://192.168.220.254:8000/play/a027/index.m3u8?hls
 #EXTINF:-1 group-title="-",Lifetime
@@ -149,4 +149,5 @@ http://192.168.220.254:8000/play/a00i/index.m3u8?hls
 http://192.168.220.254:8000/play/a029/index.m3u8?hls
 #EXTINF:-1 group-title="-",Zona Latina
 http://192.168.220.254:8000/play/a00j/index.m3u8?hls
+
 
