@@ -49,7 +49,7 @@ http://192.168.220.254:8000/play/a07m/index.m3u8
 http://192.168.220.254:8000/play/a06l/index.m3u8
 #EXTINF:-1 group-title="-",HBO Xtreme
 http://192.168.220.254:8000/play/a06r/index.m3u8
-#EXTINF:-1 group-title="-",Paramount
+#EXTINF:-1 group-title="-",TNT Series
 http://192.168.220.254:8000/play/a06v/index.m3u8
 #EXTINF:-1 group-title="-",AMC
 http://192.168.220.254:8000/play/a070/index.m3u8
