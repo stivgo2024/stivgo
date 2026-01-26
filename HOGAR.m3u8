@@ -23,6 +23,8 @@ http://192.168.220.254:8000/play/a06n/index.m3u8
 http://192.168.220.254:8000/play/a01q/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 2
 http://192.168.220.254:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://192.168.220.254:8000/play/a04t/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 3
 http://192.168.220.254:8000/play/a075/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 5
@@ -67,10 +69,14 @@ http://192.168.220.254:8000/play/a02v/index.m3u8
 http://192.168.220.254:8000/play/a02s/index.m3u8
 #EXTINF:-1 group-title="-",Universal Channel
 http://192.168.220.254:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="-",Universal Channel HD
+http://192.168.220.254:8000/play/a04w/index.m3u8
 #EXTINF:-1 group-title="-",AXN 
 http://192.168.220.254:8000/play/a02t/index.m3u8
 #EXTINF:-1 group-title="-",Studio Universal
 http://192.168.220.254:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="-",Studio Universal HD
+http://192.168.220.254:8000/play/a04s/index.m3u8
 #EXTINF:-1 group-title="-",Cinecanal
 http://192.168.220.254:8000/play/a06f/index.m3u8
 #EXTINF:-1 group-title="-",Cinemax
@@ -145,12 +151,3 @@ http://192.168.220.254:8000/play/a00i/index.m3u8
 http://192.168.220.254:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="-",Zona Latina
 http://192.168.220.254:8000/play/a00j/index.m3u8
-
-
-
-
-
-
-
-
-
