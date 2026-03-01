@@ -41,12 +41,8 @@ http://192.168.220.254:8000/play/a06k/index.m3u8
 http://192.168.220.254:8000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="-",HBO
 http://192.168.220.254:8000/play/a072/index.m3u8
-#EXTINF:-1 group-title="-",HBO 2
-http://192.168.220.254:8000/play/a07l/index.m3u8
 #EXTINF:-1 group-title="-",HBO Family
 http://192.168.220.254:8000/play/a06o/index.m3u8
-#EXTINF:-1 group-title="-",HBO Plus
-http://192.168.220.254:8000/play/a07m/index.m3u8
 #EXTINF:-1 group-title="-",HBO Pop
 http://192.168.220.254:8000/play/a06l/index.m3u8
 #EXTINF:-1 group-title="-",HBO Xtreme
@@ -77,8 +73,6 @@ http://192.168.220.254:8000/play/a01d/index.m3u8
 http://192.168.220.254:8000/play/a04s/index.m3u8
 #EXTINF:-1 group-title="-",Cinecanal
 http://192.168.220.254:8000/play/a06f/index.m3u8
-#EXTINF:-1 group-title="-",Cinemax
-http://192.168.220.254:8000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="-",AE Mundo
 http://192.168.220.254:8000/play/a01u/index.m3u8
 #EXTINF:-1 group-title="-",TCM
@@ -89,8 +83,6 @@ http://192.168.220.254:8000/play/a00w/index.m3u8
 http://192.168.220.254:8000/play/a00u/index.m3u8
 #EXTINF:-1 group-title="-",Disney Jr
 http://192.168.220.254:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="-",Nick Jr
-http://192.168.220.254:8000/play/a07i/index.m3u8
 #EXTINF:-1 group-title="-",Discovery Kids
 http://192.168.220.254:8000/play/a00y/index.m3u8
 #EXTINF:-1 group-title="-",Disney Channel
@@ -149,4 +141,3 @@ http://192.168.220.254:8000/play/a00i/index.m3u8
 http://192.168.220.254:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="-",Zona Latina
 http://192.168.220.254:8000/play/a00j/index.m3u8
-
